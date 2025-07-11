@@ -12,7 +12,7 @@ JavaScript, TypeScript, Java, C++, C#, HTML, CSS, SCSS, SQL
 
 ### 🧰 Frameworks & Libraries  
 - **Frontend:** React.js, React Native, Next.js, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL  
+- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL, Supabase  
 
 
 ### 🗄️ Databases  
