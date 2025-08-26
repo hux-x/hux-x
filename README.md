@@ -1,62 +1,69 @@
-# 👋 Hey there! I'm Husnain
+👋 Hey there! I'm Husnain
 
-I'm a passionate Full Stack Developer (MERN) based in Pakistan, with a strong command over scalable backend systems and interactive frontend experiences. I specialize in building real-time, secure, and performant web applications.
+I'm a passionate Full Stack Developer (MERN) from Pakistan with a strong focus on building scalable, secure, and user-centric applications. I love solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.
 
----
+🔧 Tech Stack
+💻 Languages
 
-## 🔧 Tech Stack
-
-### 💻 Languages  
 JavaScript, TypeScript, Java, C++, C#, HTML, CSS, SCSS, SQL
 
-### 🧰 Frameworks & Libraries  
-- **Frontend:** React.js, React Native, Next.js, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL, Supabase  
+🧰 Frameworks & Libraries
 
+Frontend: React.js, React Native, Next.js, Tailwind CSS, Framer Motion
 
-### 🗄️ Databases  
+Backend: Node.js, Express.js, RESTful APIs, GraphQL, Supabase
+
+🗄️ Databases
+
 MongoDB, PostgreSQL, Redis, MySQL, Firebase
 
-### 📦 Messaging & Queues  
+📦 Messaging & Queues
+
 Apache Kafka, RabbitMQ, BullMQ
 
-### 🛠️ Tools & Platforms  
+🛠️ Tools & Platforms
+
 Git, GitHub, Vite, Docker, Docker Compose, NGINX, cPanel, Postman, Mocha, Ubuntu Server
 
-### ⚙️ Architecture  
+⚙️ Architecture
+
 Microservices, Database Design, System Design
 
----
+🚀 What I Do
 
-## 🚀 Projects & Interests
+I specialize in turning ideas into robust, production-ready solutions—whether it’s:
 
-- 🔐 **Admin Dashboards** with secure role-based access and real-time analytics  
-- 💬 **Real-Time Chat Applications** using web sockets and message queues  
-- 📷 **AI-Powered Image Recognition** systems for socially impactful use-cases (e.g. missing children)  
-- 🌐 **Portfolio Websites** with smooth animations and responsive design  
-- 🛰️ **Team and Project Management System with GPS Attendance Systems** with geofencing and location tracking  
-- ☁️ **Cloud Deployment** on AWS, GitHub Pages, and Dockerized environments
+🖥️ Dynamic web apps with smooth UIs and real-time interactions
 
----
+🔐 Secure backend systems designed for scale and performance
 
-## 📈 Current Focus
+📡 Real-time communication platforms powered by sockets and queues
 
-- 🧱 Building reliable and scalable **backend architectures** using microservices and message queues  
-- 🎨 Enhancing **frontend animations and UI responsiveness** with Framer Motion and SCSS  
-- 🔐 Strengthening **secure auth flows** and efficient API designs  
-- 🐳 Deepening Docker knowledge and integrating CI/CD pipelines
+🤖 AI-integrated applications with computer vision and automation
 
----
+☁️ Cloud-deployed services using Docker and CI/CD workflows
 
-## 📬 Let's Connect
+At the core, I enjoy building end-to-end solutions that are not only functional but also impactful, adaptable, and future-ready.
 
-I'm open to exciting collaborations, tech talks, and meaningful projects.
+📈 Current Focus
 
-- 🌐 Portfolio: *Coming Soon*  
-- 📨 Email: *[husnainiqbal577@gmail.com]*
-- Whatsapp: *[+923424136198]* 
+🧱 Architecting scalable backend systems using microservices & queues
 
----
- 
-Let’s make something awesome together!
+🎨 Elevating UI/UX with responsive layouts and fluid animations
 
+🔐 Implementing strong security practices in modern auth flows
+
+🐳 Expanding expertise in Docker, DevOps, and cloud-native environments
+
+📬 Let’s Connect
+
+Always open to collaborating on challenging projects, innovative ideas, or impactful solutions.
+
+🌐 Portfolio: Coming Soon
+
+📧 Email: [husnainiqbal577@gmail.com
+]
+
+📱 WhatsApp: [+923424136198]
+
+✨ Let’s create something extraordinary together!
