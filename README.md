@@ -1,6 +1,6 @@
 👋 Hey there! I'm Husnain
 
-I'm a passionate Full Stack Developer (MERN) from Pakistan with a strong focus on building scalable, secure, and user-centric applications. I love solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.
+I'm a Full Stack Developer (MERN) from Pakistan with a strong focus on building scalable, secure, and user-centric applications. I love solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.
 
 🔧 Tech Stack
 💻 Languages
