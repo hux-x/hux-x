@@ -8,7 +8,7 @@
 
 *Building scalable, secure, and user-centric applications with a passion for solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/husnainiqbal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/hux-x)
 [![Email](https://img.shields.io/badge/Email-husnainiqbal577@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainiqbal577@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+923424136198-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923424136198)
 
@@ -49,7 +49,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 📦 Messaging & Queues
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -87,8 +87,6 @@
 
 </div>
 
-> *At the core, I enjoy building end-to-end solutions that are not only functional but also **impactful**, **adaptable**, and **future-ready**.*
-
 ---
 
 ## 📈 Current Focus
@@ -114,81 +112,3 @@ mindmap
       Docker Containers
       CI/CD Pipelines
       Cloud-Native Apps
-```
-
-</div>
-
-- 🧱 **Architecting scalable backend systems** using microservices & queues
-- 🎨 **Elevating UI/UX** with responsive layouts and fluid animations
-- 🔐 **Implementing strong security practices** in modern auth flows
-- 🐳 **Expanding expertise in Docker**, DevOps, and cloud-native environments
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnainiqbal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainiqbal&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=husnainiqbal&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=husnainiqbal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husnainiqbal&repo=your-awesome-project&theme=tokyonight)](https://github.com/husnainiqbal/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husnainiqbal&repo=another-cool-project&theme=tokyonight)](https://github.com/husnainiqbal/another-cool-project)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Always open to collaborating on challenging projects, innovative ideas, or impactful solutions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnainiqbal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/husnainiqbal)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/husnainiqbal)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *Let's create something extraordinary together!* ✨
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-
-**💡 "Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=hux-x&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/hux-x?label=Follow&style=social)](https://github.com/hux-x/?tab=follow)
-
-</div>
