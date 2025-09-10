@@ -1,566 +1,194 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Husnain - Full Stack Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# 👋 Hey there! I'm Husnain
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            line-height: 1.6;
-            overflow-x: hidden;
-        }
+<div align="center">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;From+Pakistan+🇵🇰;Building+Scalable+Solutions)
 
-        /* Header Section */
-        .header {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(20px);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-            padding: 2rem 0;
-            text-align: center;
-            margin-bottom: 2rem;
-        }
+**Full Stack Developer (MERN) from Pakistan 🇵🇰**
 
-        .header h1 {
-            font-size: 3.5rem;
-            color: #fff;
-            margin-bottom: 0.5rem;
-            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-            animation: fadeInUp 1s ease-out;
-        }
+*Building scalable, secure, and user-centric applications with a passion for solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.*
 
-        .header .subtitle {
-            font-size: 1.3rem;
-            color: rgba(255, 255, 255, 0.9);
-            margin-bottom: 1rem;
-            animation: fadeInUp 1s ease-out 0.2s both;
-        }
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/husnainiqbal)
+[![Email](https://img.shields.io/badge/Email-husnainiqbal577@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainiqbal577@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923424136198-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923424136198)
 
-        .header .description {
-            max-width: 800px;
-            margin: 0 auto;
-            color: rgba(255, 255, 255, 0.8);
-            font-size: 1.1rem;
-            animation: fadeInUp 1s ease-out 0.4s both;
-        }
+</div>
 
-        /* Card Styles */
-        .card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(20px);
-            border-radius: 20px;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            transition: all 0.3s ease;
-            animation: slideInUp 0.8s ease-out;
-        }
+---
 
-        .card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.15);
-        }
+## 🔧 Tech Stack
 
-        .card h2 {
-            color: #4a5568;
-            font-size: 2rem;
-            margin-bottom: 1.5rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-        .emoji {
-            font-size: 1.5rem;
-        }
+### 🧰 Frameworks & Libraries
 
-        /* Tech Stack Grid */
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin-top: 1rem;
-        }
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-        .tech-category {
-            background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
-            border-radius: 15px;
-            padding: 1.5rem;
-            transition: all 0.3s ease;
-        }
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-        .tech-category:hover {
-            transform: scale(1.02);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-        }
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-        .tech-category h3 {
-            color: #2d3748;
-            margin-bottom: 1rem;
-            font-size: 1.2rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
+### 📦 Messaging & Queues
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4444?style=for-the-badge&logo=bull&logoColor=white)
 
-        .tech-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-        .tech-tag {
-            background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
-            color: white;
-            padding: 0.4rem 1rem;
-            border-radius: 25px;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+### ⚙️ Architecture
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-4ECDC4?style=for-the-badge&logo=systemdesign&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-45B7D1?style=for-the-badge&logo=database&logoColor=white)
 
-        .tech-tag:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(66, 153, 225, 0.4);
-        }
+---
 
-        /* Services Grid */
-        .services-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-            margin-top: 1rem;
-        }
+## 🚀 What I Do
 
-        .service-item {
-            background: linear-gradient(135deg, #f0fff4 0%, #e6fffa 100%);
-            border-radius: 15px;
-            padding: 1.5rem;
-            text-align: center;
-            transition: all 0.3s ease;
-            border-left: 4px solid #48bb78;
-        }
+<div align="center">
 
-        .service-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 25px rgba(72, 187, 120, 0.2);
-        }
+| 🖥️ **Dynamic Web Apps** | 🔐 **Secure Backend Systems** | 📡 **Real-time Communication** |
+|:---:|:---:|:---:|
+| Smooth UIs and real-time interactions that engage users | Designed for scale and performance with robust architecture | Platforms powered by sockets and message queues |
 
-        .service-item .service-icon {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
+| 🤖 **AI-Integrated Applications** | ☁️ **Cloud-Deployed Services** |
+|:---:|:---:|
+| Computer vision and automation solutions | Using Docker and CI/CD workflows for seamless deployment |
 
-        .service-item h3 {
-            color: #2d3748;
-            margin-bottom: 0.5rem;
-        }
+</div>
 
-        .service-item p {
-            color: #4a5568;
-            font-size: 0.95rem;
-        }
+> *At the core, I enjoy building end-to-end solutions that are not only functional but also **impactful**, **adaptable**, and **future-ready**.*
 
-        /* Focus Items */
-        .focus-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-        }
+---
 
-        .focus-item {
-            background: linear-gradient(135deg, #fef5e7 0%, #fed7aa 100%);
-            border-radius: 12px;
-            padding: 1.2rem;
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            transition: all 0.3s ease;
-        }
+## 📈 Current Focus
 
-        .focus-item:hover {
-            transform: scale(1.02);
-            box-shadow: 0 8px 16px rgba(251, 191, 36, 0.2);
-        }
+<div align="center">
 
-        .focus-item .focus-icon {
-            font-size: 1.8rem;
-        }
+```mermaid
+mindmap
+  root((Current Focus))
+    🧱 Backend Architecture
+      Microservices
+      Message Queues
+      Scalable Systems
+    🎨 Frontend Excellence
+      Responsive Layouts
+      Fluid Animations
+      Modern UI/UX
+    🔐 Security First
+      Authentication Flows
+      Data Protection
+      Best Practices
+    🐳 DevOps & Cloud
+      Docker Containers
+      CI/CD Pipelines
+      Cloud-Native Apps
+```
 
-        .focus-item .focus-text {
-            color: #744210;
-            font-weight: 500;
-        }
+</div>
 
-        /* Contact Section */
-        .contact-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin-top: 1rem;
-        }
+- 🧱 **Architecting scalable backend systems** using microservices & queues
+- 🎨 **Elevating UI/UX** with responsive layouts and fluid animations
+- 🔐 **Implementing strong security practices** in modern auth flows
+- 🐳 **Expanding expertise in Docker**, DevOps, and cloud-native environments
 
-        .contact-item {
-            background: linear-gradient(135deg, #e6fffa 0%, #b2f5ea 100%);
-            border-radius: 15px;
-            padding: 1.5rem;
-            text-align: center;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+---
 
-        .contact-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 25px rgba(56, 178, 172, 0.2);
-        }
+## 📊 GitHub Stats
 
-        .contact-item .contact-icon {
-            font-size: 2rem;
-            margin-bottom: 1rem;
-            color: #319795;
-        }
+<div align="center">
 
-        .contact-item h3 {
-            color: #2d3748;
-            margin-bottom: 0.5rem;
-        }
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnainiqbal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainiqbal&layout=compact&langs_count=7&theme=tokyonight"/>
 
-        .contact-item p {
-            color: #4a5568;
-        }
+</div>
 
-        /* Animations */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
 
-        @keyframes slideInUp {
-            from {
-                opacity: 0;
-                transform: translateY(50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+[![GitHub Streak](https://streak-stats.demolab.com/?user=husnainiqbal&theme=tokyonight)](https://git.io/streak-stats)
 
-        /* Floating Animation for Background Elements */
-        .floating-shapes {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
+</div>
 
-        .shape {
-            position: absolute;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-        }
+---
 
-        .shape:nth-child(1) {
-            width: 80px;
-            height: 80px;
-            top: 20%;
-            left: 10%;
-            animation-delay: 0s;
-        }
+## 🏆 GitHub Trophies
 
-        .shape:nth-child(2) {
-            width: 120px;
-            height: 120px;
-            top: 60%;
-            right: 10%;
-            animation-delay: 2s;
-        }
+<div align="center">
 
-        .shape:nth-child(3) {
-            width: 60px;
-            height: 60px;
-            top: 80%;
-            left: 20%;
-            animation-delay: 4s;
-        }
+[![trophy](https://github-profile-trophy.vercel.app/?username=husnainiqbal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-        @keyframes float {
-            0%, 100% {
-                transform: translateY(0px) rotate(0deg);
-            }
-            50% {
-                transform: translateY(-20px) rotate(180deg);
-            }
-        }
+</div>
 
-        /* Responsive */
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 2.5rem;
-            }
-            
-            .header .subtitle {
-                font-size: 1.1rem;
-            }
-            
-            .tech-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .card {
-                padding: 1.5rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="floating-shapes">
-        <div class="shape"></div>
-        <div class="shape"></div>
-        <div class="shape"></div>
-    </div>
+---
 
-    <div class="header">
-        <div class="container">
-            <h1>👋 Hey there! I'm Husnain</h1>
-            <p class="subtitle">Full Stack Developer (MERN) from Pakistan</p>
-            <p class="description">
-                Building scalable, secure, and user-centric applications with a strong focus on solving complex problems, 
-                designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.
-            </p>
-        </div>
-    </div>
+## 🌟 Featured Projects
 
-    <div class="container">
-        <!-- Tech Stack Section -->
-        <div class="card">
-            <h2><span class="emoji">🔧</span> Tech Stack</h2>
-            <div class="tech-grid">
-                <div class="tech-category">
-                    <h3><span class="emoji">💻</span> Languages</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">JavaScript</span>
-                        <span class="tech-tag">TypeScript</span>
-                        <span class="tech-tag">Java</span>
-                        <span class="tech-tag">C++</span>
-                        <span class="tech-tag">C#</span>
-                        <span class="tech-tag">HTML</span>
-                        <span class="tech-tag">CSS</span>
-                        <span class="tech-tag">SCSS</span>
-                        <span class="tech-tag">SQL</span>
-                    </div>
-                </div>
+<div align="center">
 
-                <div class="tech-category">
-                    <h3><span class="emoji">🧰</span> Frameworks & Libraries</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">React.js</span>
-                        <span class="tech-tag">React Native</span>
-                        <span class="tech-tag">Next.js</span>
-                        <span class="tech-tag">Tailwind CSS</span>
-                        <span class="tech-tag">Framer Motion</span>
-                        <span class="tech-tag">Node.js</span>
-                        <span class="tech-tag">Express.js</span>
-                        <span class="tech-tag">RESTful APIs</span>
-                        <span class="tech-tag">GraphQL</span>
-                        <span class="tech-tag">Supabase</span>
-                    </div>
-                </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husnainiqbal&repo=your-awesome-project&theme=tokyonight)](https://github.com/husnainiqbal/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husnainiqbal&repo=another-cool-project&theme=tokyonight)](https://github.com/husnainiqbal/another-cool-project)
 
-                <div class="tech-category">
-                    <h3><span class="emoji">🗄️</span> Databases</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">MongoDB</span>
-                        <span class="tech-tag">PostgreSQL</span>
-                        <span class="tech-tag">Redis</span>
-                        <span class="tech-tag">MySQL</span>
-                        <span class="tech-tag">Firebase</span>
-                    </div>
-                </div>
+</div>
 
-                <div class="tech-category">
-                    <h3><span class="emoji">📦</span> Messaging & Queues</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">Apache Kafka</span>
-                        <span class="tech-tag">RabbitMQ</span>
-                        <span class="tech-tag">BullMQ</span>
-                    </div>
-                </div>
+---
 
-                <div class="tech-category">
-                    <h3><span class="emoji">🛠️</span> Tools & Platforms</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">Git</span>
-                        <span class="tech-tag">GitHub</span>
-                        <span class="tech-tag">Vite</span>
-                        <span class="tech-tag">Docker</span>
-                        <span class="tech-tag">Docker Compose</span>
-                        <span class="tech-tag">NGINX</span>
-                        <span class="tech-tag">cPanel</span>
-                        <span class="tech-tag">Postman</span>
-                        <span class="tech-tag">Mocha</span>
-                        <span class="tech-tag">Ubuntu Server</span>
-                    </div>
-                </div>
+## 📬 Let's Connect
 
-                <div class="tech-category">
-                    <h3><span class="emoji">⚙️</span> Architecture</h3>
-                    <div class="tech-tags">
-                        <span class="tech-tag">Microservices</span>
-                        <span class="tech-tag">Database Design</span>
-                        <span class="tech-tag">System Design</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <!-- What I Do Section -->
-        <div class="card">
-            <h2><span class="emoji">🚀</span> What I Do</h2>
-            <p style="margin-bottom: 2rem; color: #4a5568; font-size: 1.1rem;">
-                I specialize in turning ideas into robust, production-ready solutions—whether it's:
-            </p>
-            <div class="services-grid">
-                <div class="service-item">
-                    <div class="service-icon">🖥️</div>
-                    <h3>Dynamic Web Apps</h3>
-                    <p>Smooth UIs and real-time interactions that engage users</p>
-                </div>
-                <div class="service-item">
-                    <div class="service-icon">🔐</div>
-                    <h3>Secure Backend Systems</h3>
-                    <p>Designed for scale and performance with robust architecture</p>
-                </div>
-                <div class="service-item">
-                    <div class="service-icon">📡</div>
-                    <h3>Real-time Communication</h3>
-                    <p>Platforms powered by sockets and message queues</p>
-                </div>
-                <div class="service-item">
-                    <div class="service-icon">🤖</div>
-                    <h3>AI-Integrated Applications</h3>
-                    <p>Computer vision and automation solutions</p>
-                </div>
-                <div class="service-item">
-                    <div class="service-icon">☁️</div>
-                    <h3>Cloud-Deployed Services</h3>
-                    <p>Using Docker and CI/CD workflows for seamless deployment</p>
-                </div>
-            </div>
-            <p style="margin-top: 2rem; color: #4a5568; font-size: 1.1rem; text-align: center; font-style: italic;">
-                At the core, I enjoy building end-to-end solutions that are not only functional but also impactful, adaptable, and future-ready.
-            </p>
-        </div>
+**Always open to collaborating on challenging projects, innovative ideas, or impactful solutions.**
 
-        <!-- Current Focus Section -->
-        <div class="card">
-            <h2><span class="emoji">📈</span> Current Focus</h2>
-            <div class="focus-grid">
-                <div class="focus-item">
-                    <div class="focus-icon">🧱</div>
-                    <div class="focus-text">Architecting scalable backend systems using microservices & queues</div>
-                </div>
-                <div class="focus-item">
-                    <div class="focus-icon">🎨</div>
-                    <div class="focus-text">Elevating UI/UX with responsive layouts and fluid animations</div>
-                </div>
-                <div class="focus-item">
-                    <div class="focus-icon">🔐</div>
-                    <div class="focus-text">Implementing strong security practices in modern auth flows</div>
-                </div>
-                <div class="focus-item">
-                    <div class="focus-icon">🐳</div>
-                    <div class="focus-text">Expanding expertise in Docker, DevOps, and cloud-native environments</div>
-                </div>
-            </div>
-        </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnainiqbal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/husnainiqbal)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/husnainiqbal)
 
-        <!-- Contact Section -->
-        <div class="card">
-            <h2><span class="emoji">📬</span> Let's Connect</h2>
-            <p style="margin-bottom: 2rem; color: #4a5568; font-size: 1.1rem; text-align: center;">
-                Always open to collaborating on challenging projects, innovative ideas, or impactful solutions.
-            </p>
-            <div class="contact-grid">
-                <div class="contact-item" onclick="window.open('https://github.com/husnainiqbal', '_blank')">
-                    <div class="contact-icon">🌐</div>
-                    <h3>Portfolio</h3>
-                    <p>Coming Soon</p>
-                </div>
-                <div class="contact-item" onclick="window.location.href='mailto:husnainiqbal577@gmail.com'">
-                    <div class="contact-icon">📧</div>
-                    <h3>Email</h3>
-                    <p>husnainiqbal577@gmail.com</p>
-                </div>
-                <div class="contact-item" onclick="window.open('https://wa.me/923424136198', '_blank')">
-                    <div class="contact-icon">📱</div>
-                    <h3>WhatsApp</h3>
-                    <p>+92 342 413 6198</p>
-                </div>
-            </div>
-            <div style="text-align: center; margin-top: 2rem;">
-                <p style="font-size: 1.2rem; color: #4a5568; font-weight: 500;">
-                    ✨ Let's create something extraordinary together!
-                </p>
-            </div>
-        </div>
-    </div>
+</div>
 
-    <script>
-        // Add some interactive animations
-        document.addEventListener('DOMContentLoaded', function() {
-            const cards = document.querySelectorAll('.card');
-            
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach((entry) => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.animation = 'slideInUp 0.8s ease-out';
-                    }
-                });
-            });
+---
 
-            cards.forEach((card) => {
-                observer.observe(card);
-            });
+<div align="center">
 
-            // Add click animation to tech tags
-            const techTags = document.querySelectorAll('.tech-tag');
-            techTags.forEach(tag => {
-                tag.addEventListener('click', function() {
-                    this.style.transform = 'scale(0.95)';
-                    setTimeout(() => {
-                        this.style.transform = 'translateY(-2px)';
-                    }, 150);
-                });
-            });
-        });
-    </script>
-</body>
-</html>
+### ✨ *Let's create something extraordinary together!* ✨
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+**💡 "Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=husnainiqbal&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/husnainiqbal?label=Follow&style=social)](https://github.com/husnainiqbal/?tab=follow)
+
+</div>
