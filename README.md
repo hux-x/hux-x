@@ -188,7 +188,7 @@ mindmap
 
 **💡 "Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=husnainiqbal&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/husnainiqbal?label=Follow&style=social)](https://github.com/husnainiqbal/?tab=follow)
+![Profile Views](https://komarev.com/ghpvc/?username=hux-x&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/hux-x?label=Follow&style=social)](https://github.com/hux-x/?tab=follow)
 
 </div>
