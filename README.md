@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;From+Pakistan+🇵🇰;Building+Scalable+Solutions)
 
-**Full Stack Developer (MERN) from Pakistan 🇵🇰**
+**Full Stack Developer from Pakistan 🇵🇰**
 
 *Building scalable, secure, and user-centric applications with a passion for solving complex problems, designing efficient backend systems, and crafting engaging frontend experiences that bring ideas to life.*
 
